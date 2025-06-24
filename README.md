@@ -1,3 +1,5 @@
+https://github.com/spiritxiii/sales-bonus.git
+
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
