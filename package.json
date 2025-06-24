@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "prettier": "^3.6.0",
+    "stylelint": "^16.21.0"
+  },
+  "name": "sales-bonus",
+  "version": "1.0.0",
+  "description": "5 спринт, модуль JS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "format": "prettier --write './**/*.{html,css,js}'",
+    "lint": "stylelint \"**/*.css\"",
+    "lintfix": "stylelint \"**/*.css\" --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritxiii/sales-bonus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiritxiii/sales-bonus/issues"
+  },
+  "homepage": "https://github.com/spiritxiii/sales-bonus#readme"
+}
